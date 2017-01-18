@@ -1,0 +1,6 @@
+D:\Jenkins_Slave\Repo\ProjectJenkins\ProjectJenkins\bin\Debug\ProjectJenkins.dll
+D:\Jenkins_Slave\Repo\ProjectJenkins\ProjectJenkins\bin\Debug\ProjectJenkins.pdb
+D:\Jenkins_Slave\Repo\ProjectJenkins\ProjectJenkins\bin\Debug\nunit.framework.dll
+D:\Jenkins_Slave\Repo\ProjectJenkins\ProjectJenkins\bin\Debug\nunit.framework.xml
+D:\Jenkins_Slave\Repo\ProjectJenkins\ProjectJenkins\obj\Debug\ProjectJenkins.dll
+D:\Jenkins_Slave\Repo\ProjectJenkins\ProjectJenkins\obj\Debug\ProjectJenkins.pdb
